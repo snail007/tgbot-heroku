@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "###### pwd ########"
+pwd
+echo "###### ls ###########"
+ls -al
+cd /app
+TG_PORT=$PORT ./tgbot
