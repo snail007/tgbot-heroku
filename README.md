@@ -71,7 +71,7 @@ https://devcenter.heroku.com/articles/free-dyno-hours#usage
 
 `msg`: 要发送的文本消息。
 
-`uid`: 消息接受人的用户ID，telegram里面加机器人`@JsonDumpBot`聊天可以的到你的用户ID。
+`uid`: 消息接受人的用户ID，telegram里面加机器人`@JsonDumpBot`聊天可以获取你的用户ID。
 
 `token`: telegram机器人的token,telegram里面加`@BotFather`可以创建你的机器人并获取token。
 
